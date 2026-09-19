@@ -4,7 +4,7 @@
 only; not an H-E-B work product and no non-public information used.
 
 **Deliverable:** [`output/Retail_Peer_Benchmarking.xlsx`](output/Retail_Peer_Benchmarking.xlsx)
-– 8 tabs, 937 live formulas, 101 named ranges, 0 formula errors after a full
+– 8 tabs, 948 live formulas, 103 named ranges, 0 formula errors after a full
 recalculation in Excel. Every analytical number is a formula; every input
 carries its XBRL tag, accession number and filing date.
 
