@@ -307,7 +307,7 @@ def build_cover(wb):
     put(ws, f"D{r}", "", border=BOTTOM)
     r += 1
     guide = [
-        ("Start here", "Executive Summary – the three questions, each answered in one bold line, followed by the evidence. Five minutes."),
+        ("Start here", "Executive Summary – the three questions, each answered in one bold line, followed by the evidence."),
         ("Then", "Scorecard – who is strongest and weakest on each metric this year. Change the year in cell B3 to re-rank any year since FY2016."),
         ("Then", "Trend – six charts, FY2016–FY2025, with the 2020–2023 shock window shaded. This is where the resilience and margin-pressure answers are visible."),
         ("If you want the numbers", "Ratio Calculations (every ratio, every year, all formulas) and Raw Data (the as-reported inputs and the debt build)."),
