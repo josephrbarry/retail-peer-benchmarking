@@ -20,7 +20,7 @@ carries its XBRL tag, accession number and filing date.
 
 Don't want to open Excel? The reader's copy is
 [`docs/Retail_Peer_Benchmarking_summary.pdf`](docs/Retail_Peer_Benchmarking_summary.pdf) (Cover, Executive
-Summary, Scorecard, Trend – 7 pages).
+Summary, Scorecard, Trend – 6 pages).
 
 **Executive Summary** – one bold verdict per question, then the evidence; every number is a live formula.
 
@@ -46,7 +46,7 @@ Summary, Scorecard, Trend – 7 pages).
 | Scorecard | Year-selectable (data-validated input) ranking with RANK.EQ, INDEX/MATCH leader/laggard, color scales, live takeaway text, composite rank |
 | Trend | Six native combo charts; FY2020–FY2023 shaded via a secondary-axis column series; NA() helper block for gaps |
 | Methodology & Tools | Sources, techniques, ASC 606 / 842 / 280 / LIFO comparability, assumptions, limits |
-| Data Lineage | 647 rows: value, tag, dimension, accession, filed, restated flag, first-filed value, EDGAR link |
+| Data Lineage | 658 rows: value, tag, dimension, accession, filed, restated flag, first-filed value, EDGAR link |
 
 ## Skills demonstrated
 
